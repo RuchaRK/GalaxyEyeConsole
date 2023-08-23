@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.sr-only {
+  display: none;
+}
+
+.map{
+  height: 100%;
+  width: 100%;
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+.App {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: black;
+  color:white;
+  font-family: 'Times New Roman';
+}
+
+ul,li{
+  padding:4px;
+  text-align:left;
+  margin-left: 16px;
+}
+
+a{
+  text-transform: none;
+  text-decoration: none;
+}
+
+pre{
+  width:100%;
+  padding: 8px;
+}
