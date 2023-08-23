@@ -1,4 +1,14 @@
 # GalaxyEyeConsole
+Welcome to the GalaxEye Satellite Image Console! 
+
+Explore and visualize satellite image data effortlessly. Select an Area of Interest (AOI) on the map, and we'll provide you with all the relevant satellite image tiles intersecting with your chosen AOI.
+
+Instructions: 
+- To create an AOI, choose the Polygon Icon on the map and place points on the map.
+- Once the polygon is created, you will visualize the tiles that intersect with it.
+- If you initiate a new polygon, the current results will be cleared.
+- To remove the results, you can utilize the delete icon.
+- If you wish to modify the polygon, you can do so using the Edit icon. 
 
 ## Prerequisites
 
